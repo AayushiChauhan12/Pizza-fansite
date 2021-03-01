@@ -1,0 +1,50 @@
+h1 {
+  background-color: #ffc85c;
+  color: red;
+  text-align: center;
+}
+
+img {
+  background-color: red;
+  display: block;
+  height: 120;
+  margin-left: auto;
+  margin-right: auto;
+  outline-style: solid;
+  outline-width: thick;
+}
+
+p {
+  font-family: georgia;
+  text-align: center;
+}
+
+body {
+  background-color: #f3eac2;
+}
+
+
+h2 {
+  background-color: #ffc85c;
+  color: red;
+  text-align: center;
+}
+
+hr{
+  border-color: black;
+  border-style: dotted none none;
+  border-width: thick;
+  width: 15%;
+}
+
+h3{
+  text-align: center;
+  color: #161d6f;
+}
+
+table{
+  border-spacing: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px;
+}
